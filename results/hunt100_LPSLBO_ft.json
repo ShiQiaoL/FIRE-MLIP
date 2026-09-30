@@ -1,0 +1,15 @@
+{
+ "n": 100,
+ "collapsed_dmin": 0,
+ "big_fake_drops": 1,
+ "worst_dmin_A": 1.224,
+ "floor": 0.861,
+ "drops": [
+  {
+   "k": 27,
+   "dE": -1.017,
+   "dmin": 1.259
+  }
+ ],
+ "model": "/work/home/USER/LPS-LBO/results1/Li2CO3-LiF_stagetwo.model"
+}

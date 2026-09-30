@@ -1,0 +1,730 @@
+{
+ "cells": {
+  "NaNSS/v21/Na-Na": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/v21/Na-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/v21/Na-Sb": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/v21/S-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/v21/S-Sb": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/v1/Na-Na": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 6,
+   "n_total": 15
+  },
+  "NaNSS/v1/Na-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/v1/Na-Sb": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/v1/S-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/v1/S-Sb": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/mpa0/Na-Na": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/mpa0/Na-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/mpa0/Na-Sb": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/mpa0/S-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "NaNSS/mpa0/S-Sb": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/ft/Cl-Cl": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 9,
+   "n_total": 15
+  },
+  "LPSCl/ft/Cl-Li": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 9,
+   "n_total": 15
+  },
+  "LPSCl/ft/Cl-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/ft/Cl-S": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 8,
+   "n_total": 15
+  },
+  "LPSCl/ft/Li-Li": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "LPSCl/ft/Li-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/ft/Li-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/ft/P-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/ft/P-S": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 9,
+   "n_total": 15
+  },
+  "LPSCl/ft/S-S": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/Cl-Cl": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/Cl-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/Cl-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/Cl-S": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 10,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/Li-Li": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/Li-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/Li-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/P-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/P-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSCl/mpa0/S-S": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 5,
+   "n_total": 15
+  },
+  "LLZO/ft/La-La": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/ft/La-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/ft/La-O": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/ft/La-Ta": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/ft/La-Zr": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/ft/Li-Li": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 9,
+   "n_total": 15
+  },
+  "LLZO/ft/Li-O": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 6,
+   "n_total": 15
+  },
+  "LLZO/ft/Li-Ta": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/ft/Li-Zr": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/ft/O-O": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 9,
+   "n_total": 15
+  },
+  "LLZO/ft/O-Ta": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/ft/O-Zr": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/La-La": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/La-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/La-O": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/La-Ta": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/La-Zr": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/Li-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/Li-O": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 6,
+   "n_total": 15
+  },
+  "LLZO/mpa0/Li-Ta": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/Li-Zr": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/O-O": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/O-Ta": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LLZO/mpa0/O-Zr": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/Cl-Cl": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/Cl-F": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/Cl-Ga": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/Cl-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/F-F": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 6,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/F-Ga": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/F-Li": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 3,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/Ga-Ga": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/Ga-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/ft/Li-Li": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 4,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/Cl-Cl": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/Cl-F": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/Cl-Ga": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/Cl-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/F-F": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 6,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/F-Ga": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 11,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/F-Li": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 3,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/Ga-Ga": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/Ga-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LiClGaF3/mpa0/Li-Li": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 5,
+   "n_total": 15
+  },
+  "Li2CO3LiF/ft/C-C": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "Li2CO3LiF/ft/C-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "Li2CO3LiF/ft/C-O": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "Li2CO3LiF/ft/Li-Li": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 9,
+   "n_total": 15
+  },
+  "Li2CO3LiF/ft/Li-O": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 6,
+   "n_total": 15
+  },
+  "Li2CO3LiF/ft/O-O": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "Li2CO3LiF/mpa0/C-C": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "Li2CO3LiF/mpa0/C-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "Li2CO3LiF/mpa0/C-O": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "Li2CO3LiF/mpa0/Li-Li": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 14,
+   "n_total": 15
+  },
+  "Li2CO3LiF/mpa0/Li-O": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 6,
+   "n_total": 15
+  },
+  "Li2CO3LiF/mpa0/O-O": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/ft/B-B": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/ft/B-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/ft/B-O": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "LPSLBO/ft/B-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/ft/B-S": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 9,
+   "n_total": 15
+  },
+  "LPSLBO/ft/Li-Li": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 9,
+   "n_total": 15
+  },
+  "LPSLBO/ft/Li-O": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 6,
+   "n_total": 15
+  },
+  "LPSLBO/ft/Li-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/ft/Li-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/ft/O-O": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 13,
+   "n_total": 15
+  },
+  "LPSLBO/ft/O-P": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 2,
+   "n_total": 15
+  },
+  "LPSLBO/ft/O-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/ft/P-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/ft/P-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/ft/S-S": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/B-B": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/B-Li": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/B-O": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/B-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/B-S": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 11,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/Li-Li": {
+   "base_pass": true,
+   "robust": false,
+   "n_pass": 12,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/Li-O": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 6,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/Li-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/Li-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/O-O": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/O-P": {
+   "base_pass": false,
+   "robust": false,
+   "n_pass": 2,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/O-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/P-P": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/P-S": {
+   "base_pass": true,
+   "robust": true,
+   "n_pass": 15,
+   "n_total": 15
+  },
+  "LPSLBO/mpa0/S-S": {
+   "base_pass": false,
+   "robust": true,
+   "n_pass": 0,
+   "n_total": 15
+  }
+ }
+}

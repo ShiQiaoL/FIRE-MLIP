@@ -1,0 +1,8 @@
+{
+ "model": "/work/home/USER/LPS-LBO/results1/Li2CO3-LiF_stagetwo.model",
+ "test": "/work/home/USER/LPS-LBO/soap_test_200.xyz",
+ "n_frames": 200,
+ "note": "misnamed file; log-verified Li/B/O/P/S",
+ "E_rmse_meV_atom": 1.064,
+ "F_rmse_meV_A": 67.13
+}

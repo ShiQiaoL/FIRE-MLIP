@@ -1,0 +1,122 @@
+[
+ {
+  "at_committed_ps": -1.0,
+  "info": "warmup#1: T=116025 dmin=0.80"
+ },
+ {
+  "at_committed_ps": -1.0,
+  "info": "warmup#2: T=200270 dmin=0.59"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=411499971 dmin=0.30"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=1615859 dmin=0.85"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=11701797 dmin=0.48"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=2955231 dmin=0.86"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=1238201635 dmin=0.26"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=330069703992 dmin=0.29"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=681841123 dmin=0.27"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=4044 dmin=0.66"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=4695880 dmin=1.02"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=47594649 dmin=0.43"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=1818 dmin=0.65"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=876366539 dmin=0.26"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=3119 dmin=0.97"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=517396 dmin=0.62"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=7494694371 dmin=0.22"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=16074877 dmin=0.44"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=1568386880 dmin=0.19"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=3191243111 dmin=0.08"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=427938708 dmin=0.22"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=639694605 dmin=0.34"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=40388 dmin=0.56"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=203149943 dmin=0.14"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=48031796 dmin=0.19"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=1429584175 dmin=0.20"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=1678617 dmin=0.68"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=46374813 dmin=0.35"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=293300798 dmin=0.25"
+ },
+ {
+  "at_committed_ps": 0.0,
+  "info": "T=859498 dmin=0.67"
+ }
+]

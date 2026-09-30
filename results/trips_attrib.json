@@ -1,0 +1,489 @@
+{
+ "sentinel_d": 1.35,
+ "composition": {
+  "Na": 1752,
+  "S": 768,
+  "Sb": 192
+ },
+ "null_pair_prob": {
+  "Na-Na": 0.4173,
+  "Na-S": 0.366,
+  "Na-Sb": 0.0915,
+  "S-S": 0.0801,
+  "S-Sb": 0.0401,
+  "Sb-Sb": 0.005
+ },
+ "frames": [
+  {
+   "file": "r1s1_trip_02.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 176,
+   "contact_pairs": {
+    "Na-Na": 67,
+    "Na-S": 59,
+    "Na-Sb": 12,
+    "S-S": 27,
+    "S-Sb": 9,
+    "Sb-Sb": 2
+   },
+   "global_min": {
+    "pair": "Sb-Sb",
+    "d": 0.3
+   }
+  },
+  {
+   "file": "r1s1_trip_03.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 19,
+   "contact_pairs": {
+    "Na-Na": 5,
+    "Na-S": 12,
+    "Na-Sb": 1,
+    "S-S": 1
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.846
+   }
+  },
+  {
+   "file": "r1s1_trip_04.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 49,
+   "contact_pairs": {
+    "Na-Na": 20,
+    "S-S": 8,
+    "Na-S": 13,
+    "S-Sb": 4,
+    "Na-Sb": 4
+   },
+   "global_min": {
+    "pair": "S-Sb",
+    "d": 0.476
+   }
+  },
+  {
+   "file": "r1s1_trip_05.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 9,
+   "contact_pairs": {
+    "Na-Na": 4,
+    "Na-S": 3,
+    "Na-Sb": 1,
+    "S-Sb": 1
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.859
+   }
+  },
+  {
+   "file": "r1s1_trip_06.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 238,
+   "contact_pairs": {
+    "Na-Na": 86,
+    "Na-S": 77,
+    "Na-Sb": 24,
+    "S-S": 37,
+    "S-Sb": 11,
+    "Sb-Sb": 3
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.264
+   }
+  },
+  {
+   "file": "r1s1_trip_07.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 361,
+   "contact_pairs": {
+    "Na-Na": 180,
+    "Na-S": 119,
+    "Na-Sb": 31,
+    "S-S": 23,
+    "S-Sb": 7,
+    "Sb-Sb": 1
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.29
+   }
+  },
+  {
+   "file": "r1s1_trip_08.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 150,
+   "contact_pairs": {
+    "Na-Na": 60,
+    "Na-S": 48,
+    "Na-Sb": 17,
+    "S-S": 17,
+    "S-Sb": 6,
+    "Sb-Sb": 2
+   },
+   "global_min": {
+    "pair": "S-S",
+    "d": 0.265
+   }
+  },
+  {
+   "file": "r1s1_trip_09.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 9,
+   "contact_pairs": {
+    "Na-Sb": 2,
+    "Na-Na": 6,
+    "S-Sb": 1
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.665
+   }
+  },
+  {
+   "file": "r1s1_trip_10.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 7,
+   "contact_pairs": {
+    "Na-Na": 2,
+    "Na-Sb": 1,
+    "S-S": 1,
+    "Na-S": 3
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 1.023
+   }
+  },
+  {
+   "file": "r1s1_trip_11.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 43,
+   "contact_pairs": {
+    "Na-Na": 26,
+    "Na-S": 10,
+    "Na-Sb": 3,
+    "S-S": 2,
+    "S-Sb": 2
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.432
+   }
+  },
+  {
+   "file": "r1s1_trip_12.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 5,
+   "contact_pairs": {
+    "Na-Na": 5
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.65
+   }
+  },
+  {
+   "file": "r1s1_trip_13.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 273,
+   "contact_pairs": {
+    "Na-Na": 105,
+    "Na-Sb": 13,
+    "Na-S": 114,
+    "S-S": 27,
+    "S-Sb": 11,
+    "Sb-Sb": 3
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.257
+   }
+  },
+  {
+   "file": "r1s1_trip_14.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 4,
+   "contact_pairs": {
+    "S-S": 4
+   },
+   "global_min": {
+    "pair": "S-S",
+    "d": 0.967
+   }
+  },
+  {
+   "file": "r1s1_trip_15.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 14,
+   "contact_pairs": {
+    "Na-S": 7,
+    "Na-Na": 3,
+    "S-S": 3,
+    "Sb-Sb": 1
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.619
+   }
+  },
+  {
+   "file": "r1s1_trip_16.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 313,
+   "contact_pairs": {
+    "Na-S": 100,
+    "Na-Na": 148,
+    "Na-Sb": 22,
+    "S-S": 29,
+    "S-Sb": 13,
+    "Sb-Sb": 1
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.225
+   }
+  },
+  {
+   "file": "r1s1_trip_17.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 64,
+   "contact_pairs": {
+    "Na-S": 17,
+    "Na-Na": 40,
+    "Na-Sb": 4,
+    "S-S": 3
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.435
+   }
+  },
+  {
+   "file": "r1s1_trip_18.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 281,
+   "contact_pairs": {
+    "Na-Na": 121,
+    "Na-S": 107,
+    "Na-Sb": 16,
+    "S-S": 21,
+    "S-Sb": 14,
+    "Sb-Sb": 2
+   },
+   "global_min": {
+    "pair": "S-S",
+    "d": 0.189
+   }
+  },
+  {
+   "file": "r1s1_trip_19.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 329,
+   "contact_pairs": {
+    "Na-Na": 155,
+    "Na-Sb": 22,
+    "Na-S": 107,
+    "S-S": 35,
+    "S-Sb": 9,
+    "Sb-Sb": 1
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.077
+   }
+  },
+  {
+   "file": "r1s1_trip_20.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 236,
+   "contact_pairs": {
+    "Na-S": 89,
+    "Na-Na": 88,
+    "Na-Sb": 25,
+    "S-S": 26,
+    "S-Sb": 8
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.216
+   }
+  },
+  {
+   "file": "r1s1_trip_21.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 58,
+   "contact_pairs": {
+    "Na-Na": 22,
+    "Na-S": 23,
+    "S-Sb": 4,
+    "S-S": 6,
+    "Na-Sb": 3
+   },
+   "global_min": {
+    "pair": "S-S",
+    "d": 0.337
+   }
+  },
+  {
+   "file": "r1s1_trip_22.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 6,
+   "contact_pairs": {
+    "Na-S": 2,
+    "S-Sb": 3,
+    "S-S": 1
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.563
+   }
+  },
+  {
+   "file": "r1s1_trip_23.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 135,
+   "contact_pairs": {
+    "Na-Na": 39,
+    "Na-S": 45,
+    "Na-Sb": 10,
+    "S-S": 32,
+    "S-Sb": 9
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.144
+   }
+  },
+  {
+   "file": "r1s1_trip_24.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 71,
+   "contact_pairs": {
+    "Na-Na": 38,
+    "Na-S": 21,
+    "Na-Sb": 2,
+    "S-S": 8,
+    "S-Sb": 2
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.187
+   }
+  },
+  {
+   "file": "r1s1_trip_25.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 336,
+   "contact_pairs": {
+    "Na-Na": 172,
+    "Na-Sb": 26,
+    "Na-S": 104,
+    "S-S": 29,
+    "S-Sb": 5
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.202
+   }
+  },
+  {
+   "file": "r1s1_trip_26.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 14,
+   "contact_pairs": {
+    "Na-S": 5,
+    "Na-Na": 6,
+    "S-S": 2,
+    "Na-Sb": 1
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.684
+   }
+  },
+  {
+   "file": "r1s1_trip_27.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 78,
+   "contact_pairs": {
+    "Na-S": 29,
+    "Na-Na": 31,
+    "S-S": 9,
+    "Na-Sb": 3,
+    "S-Sb": 6
+   },
+   "global_min": {
+    "pair": "S-Sb",
+    "d": 0.346
+   }
+  },
+  {
+   "file": "r1s1_trip_28.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 12,
+   "contact_pairs": {
+    "Na-S": 2,
+    "Na-Na": 9,
+    "Na-Sb": 1
+   },
+   "global_min": {
+    "pair": "Na-S",
+    "d": 0.251
+   }
+  },
+  {
+   "file": "r1s1_trip_29.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 8,
+   "contact_pairs": {
+    "S-Sb": 1,
+    "Na-Sb": 2,
+    "Na-Na": 3,
+    "Na-S": 2
+   },
+   "global_min": {
+    "pair": "Na-Sb",
+    "d": 0.673
+   }
+  },
+  {
+   "file": "hole_pumping_guarded_20260801.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 3,
+   "contact_pairs": {
+    "Na-Na": 3
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 0.842
+   }
+  },
+  {
+   "file": "multi_hole_warm100K_20260801.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 4,
+   "contact_pairs": {
+    "Na-Na": 4
+   },
+   "global_min": {
+    "pair": "Na-Na",
+    "d": 1.111
+   }
+  },
+  {
+   "file": "ss_hole_minimized_20260801.extxyz",
+   "n_atoms": 2712,
+   "n_subphys_contacts": 1,
+   "contact_pairs": {
+    "S-S": 1
+   },
+   "global_min": {
+    "pair": "S-S",
+    "d": 1.28
+   }
+  }
+ ]
+}

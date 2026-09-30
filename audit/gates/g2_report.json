@@ -1,0 +1,592 @@
+{
+ "v22": {
+  "scans": {
+   "Na-Na@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 8.720194948834969,
+    "pass": true
+   },
+   "Na-Na@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 9.197355839531156,
+    "pass": true
+   },
+   "Na-Na@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 8.725599888133843,
+    "pass": true
+   },
+   "Na-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 11.570391676455472,
+    "pass": true
+   },
+   "Na-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 25.729799193409406,
+    "pass": true
+   },
+   "Na-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 24.289246813647765,
+    "pass": true
+   },
+   "S-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 14.591750235389581,
+    "pass": true
+   },
+   "S-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 31.45464730434861,
+    "pass": true
+   },
+   "S-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 32.015411916379094,
+    "pass": true
+   },
+   "S-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 39.02519677716826,
+    "pass": true
+   },
+   "S-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 70.38535333271733,
+    "pass": true
+   },
+   "S-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 69.83881528582128,
+    "pass": true
+   },
+   "Na-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 17.57480333260115,
+    "pass": true
+   },
+   "Na-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 30.19809732751486,
+    "pass": true
+   },
+   "Na-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 27.13169028190964,
+    "pass": true
+   },
+   "Sb-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 57.65464947233371,
+    "pass": true
+   }
+  },
+  "hole_hunt": {
+   "n": 50,
+   "collapsed_dmin": 0,
+   "big_fake_drops": 0,
+   "worst_dmin_A": 2.3156770163616542,
+   "pass": true
+  },
+  "summary": {
+   "scans_pass": "16/16",
+   "hole_hunt_pass": true
+  }
+ },
+ "v21": {
+  "scans": {
+   "Na-Na@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 8.37223079825667,
+    "pass": true
+   },
+   "Na-Na@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 9.62983413861923,
+    "pass": true
+   },
+   "Na-Na@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 8.900107601908076,
+    "pass": true
+   },
+   "Na-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 11.730846142479574,
+    "pass": true
+   },
+   "Na-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 26.26406607764102,
+    "pass": true
+   },
+   "Na-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 24.437760570626892,
+    "pass": true
+   },
+   "S-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 14.624810709277238,
+    "pass": true
+   },
+   "S-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 31.12692380549595,
+    "pass": true
+   },
+   "S-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 31.6758437215218,
+    "pass": true
+   },
+   "S-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 38.890590058250496,
+    "pass": true
+   },
+   "S-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 71.84503940432114,
+    "pass": true
+   },
+   "S-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 71.35378700440776,
+    "pass": true
+   },
+   "Na-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 17.44282963178166,
+    "pass": true
+   },
+   "Na-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 31.033563047773953,
+    "pass": true
+   },
+   "Na-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 27.930793817390736,
+    "pass": true
+   },
+   "Sb-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 54.23486622537939,
+    "pass": true
+   }
+  },
+  "hole_hunt": {
+   "n": 50,
+   "collapsed_dmin": 0,
+   "big_fake_drops": 0,
+   "worst_dmin_A": 2.310496116421275,
+   "pass": true
+  },
+  "summary": {
+   "scans_pass": "16/16",
+   "hole_hunt_pass": true
+  }
+ },
+ "v2": {
+  "scans": {
+   "Na-Na@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [
+     1.65,
+     1.7,
+     1.75,
+     1.8,
+     1.85,
+     1.9,
+     1.95,
+     2.0,
+     2.05,
+     2.1,
+     2.15,
+     2.2
+    ],
+    "wall_height_eV": 0.6467223414175198,
+    "pass": false
+   },
+   "Na-Na@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [
+     0.8
+    ],
+    "wall_height_eV": 8.953521634004403,
+    "pass": false
+   },
+   "Na-Na@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [
+     2.0,
+     2.05,
+     2.1,
+     2.15,
+     2.2,
+     2.25,
+     2.3,
+     2.35,
+     2.4,
+     2.45,
+     2.5,
+     2.55
+    ],
+    "wall_height_eV": 5.250793678037212,
+    "pass": false
+   },
+   "Na-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 6.888155395800039,
+    "pass": true
+   },
+   "Na-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 26.234725314437412,
+    "pass": true
+   },
+   "Na-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 24.590940234909795,
+    "pass": true
+   },
+   "S-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 15.855443993100682,
+    "pass": true
+   },
+   "S-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 32.376437508054266,
+    "pass": true
+   },
+   "S-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 32.8105486764257,
+    "pass": true
+   },
+   "S-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 41.76482822531051,
+    "pass": true
+   },
+   "S-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 70.73101354275406,
+    "pass": true
+   },
+   "S-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 70.50793894835613,
+    "pass": true
+   },
+   "Na-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 7.54600711268463,
+    "pass": true
+   },
+   "Na-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 31.09707257729218,
+    "pass": true
+   },
+   "Na-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 27.42592867545477,
+    "pass": true
+   },
+   "Sb-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 58.35026208317604,
+    "pass": true
+   }
+  },
+  "hole_hunt": {
+   "n": 50,
+   "collapsed_dmin": 3,
+   "big_fake_drops": 0,
+   "worst_dmin_A": 1.7893873840100198,
+   "pass": false
+  },
+  "summary": {
+   "scans_pass": "13/16",
+   "hole_hunt_pass": false
+  }
+ },
+ "v1": {
+  "scans": {
+   "Na-Na@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [
+     1.6,
+     1.65,
+     1.7,
+     1.75,
+     1.8,
+     1.85
+    ],
+    "wall_height_eV": 0.807972841909872,
+    "pass": false
+   },
+   "Na-Na@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 2.526679004596076,
+    "pass": false
+   },
+   "Na-Na@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 2.019226075365168,
+    "pass": false
+   },
+   "Na-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 2.993539260846185,
+    "pass": false
+   },
+   "Na-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 7.678357530608366,
+    "pass": true
+   },
+   "Na-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 6.977239075915691,
+    "pass": true
+   },
+   "S-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 4.849402043685206,
+    "pass": false
+   },
+   "S-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 10.530974238080887,
+    "pass": true
+   },
+   "S-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 10.900285468828315,
+    "pass": true
+   },
+   "S-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 8.321483637966795,
+    "pass": true
+   },
+   "S-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 20.85876188719044,
+    "pass": true
+   },
+   "S-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 19.853444357053263,
+    "pass": true
+   },
+   "Na-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 2.541861682910915,
+    "pass": false
+   },
+   "Na-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 18.62565723794245,
+    "pass": true
+   },
+   "Na-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 12.98563608899542,
+    "pass": true
+   },
+   "Sb-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 16.067097961812337,
+    "pass": true
+   }
+  },
+  "hole_hunt": {
+   "n": 50,
+   "collapsed_dmin": 0,
+   "big_fake_drops": 0,
+   "worst_dmin_A": 2.316407029615756,
+   "pass": true
+  },
+  "summary": {
+   "scans_pass": "10/16",
+   "hole_hunt_pass": true
+  }
+ },
+ "mpa0": {
+  "scans": {
+   "Na-Na@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 4.025543562751604,
+    "pass": true
+   },
+   "Na-Na@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 11.581189984101798,
+    "pass": true
+   },
+   "Na-Na@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 7.479058217901752,
+    "pass": true
+   },
+   "Na-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 14.017411563156056,
+    "pass": true
+   },
+   "Na-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 25.152417759762955,
+    "pass": true
+   },
+   "Na-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 24.23971843923482,
+    "pass": true
+   },
+   "S-S@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 26.34849039726422,
+    "pass": true
+   },
+   "S-S@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 30.605332730634416,
+    "pass": true
+   },
+   "S-S@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 30.99968450177903,
+    "pass": true
+   },
+   "S-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 44.61148587050796,
+    "pass": true
+   },
+   "S-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 63.06384554741095,
+    "pass": true
+   },
+   "S-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 62.29078288509561,
+    "pass": true
+   },
+   "Na-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 14.657417411670451,
+    "pass": true
+   },
+   "Na-Sb@NSS128": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 39.67985445952252,
+    "pass": true
+   },
+   "Na-Sb@iface272": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 39.41270099763233,
+    "pass": true
+   },
+   "Sb-Sb@dimer": {
+    "local_minima_below_phys": [],
+    "attractive_points_compressed": [],
+    "wall_height_eV": 52.90020451951072,
+    "pass": true
+   }
+  },
+  "hole_hunt": {
+   "n": 50,
+   "collapsed_dmin": 0,
+   "big_fake_drops": 0,
+   "worst_dmin_A": 2.3280902062280218,
+   "pass": true
+  },
+  "summary": {
+   "scans_pass": "16/16",
+   "hole_hunt_pass": true
+  }
+ }
+}

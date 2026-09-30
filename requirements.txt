@@ -1,0 +1,8 @@
+mace-torch==0.3.12
+torch>=2.1
+ase>=3.22
+numpy
+scipy
+scikit-learn
+dscribe
+matplotlib

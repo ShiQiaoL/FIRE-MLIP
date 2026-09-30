@@ -1,0 +1,122 @@
+{
+ "NaNSS": {
+  "path": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/2000-fra-2-stress-add-T-NSS/soap_test_100.xyz",
+  "key": "calc.forces",
+  "n_atoms": 128,
+  "rms_eVA": 0.6944493669135066,
+  "max_eVA": 1.7938803455275147,
+  "median_eVA": 0.458329619440658,
+  "dmin_A": 2.26970490712835,
+  "dmin_pair": "S-Sb",
+  "pbc": [
+   true,
+   true,
+   true
+  ],
+  "cell_lengths": [
+   14.3306,
+   14.3306,
+   14.5792
+  ]
+ },
+ "LPSCl": {
+  "path": "/work/home/USER/Li-LPSCl/soap_selected_200_test.xyz",
+  "key": "calc.forces",
+  "n_atoms": 185,
+  "rms_eVA": 0.9933623459762766,
+  "max_eVA": 2.847506962627133,
+  "median_eVA": 0.7834895235451461,
+  "dmin_A": 1.8668599622092705,
+  "dmin_pair": "P-S",
+  "pbc": [
+   true,
+   true,
+   true
+  ],
+  "cell_lengths": [
+   10.200661035,
+   10.202297384532478,
+   57.255678923763256
+  ]
+ },
+ "LLZO": {
+  "path": "/work/home/USER/LLZO-SUN/multi-head-train/2000-fra/soap_test_200.xyz",
+  "key": "calc.forces",
+  "n_atoms": 184,
+  "rms_eVA": 1.6783979648893181,
+  "max_eVA": 4.988781806023149,
+  "median_eVA": 1.3334960830706775,
+  "dmin_A": 1.6818264774734832,
+  "dmin_pair": "Li-O",
+  "pbc": [
+   true,
+   true,
+   true
+  ],
+  "cell_lengths": [
+   13.057181358337402,
+   13.057181358337402,
+   12.530040740966797
+  ]
+ },
+ "LiClGaF3": {
+  "path": "/work/home/USER/LiCl-GaF3/remove-errstructure/test.xyz",
+  "key": "cp2k_forces",
+  "n_atoms": 368,
+  "rms_eVA": 34.421618859931485,
+  "max_eVA": 273.0944682546333,
+  "median_eVA": 4.087027088855638,
+  "dmin_A": 0.9602237490398228,
+  "dmin_pair": "F-Ga",
+  "pbc": [
+   true,
+   true,
+   true
+  ],
+  "cell_lengths": [
+   10.024,
+   17.3620773,
+   29.60299847
+  ]
+ },
+ "Li2CO3LiF": {
+  "path": "/work/home/USER/Li2CO3-LiF/mace_test.xyz",
+  "key": "calc.forces",
+  "n_atoms": 120,
+  "rms_eVA": 1.500332469955663,
+  "max_eVA": 3.510104566449884,
+  "median_eVA": 1.0964455755215046,
+  "dmin_A": 1.2490868650027558,
+  "dmin_pair": "C-O",
+  "pbc": [
+   true,
+   true,
+   true
+  ],
+  "cell_lengths": [
+   11.481316566467285,
+   11.481316566467285,
+   11.481316566467285
+  ]
+ },
+ "LPSLBO": {
+  "path": "/work/home/USER/LPS-LBO/soap_test_200.xyz",
+  "key": "dft_forces",
+  "n_atoms": 224,
+  "rms_eVA": 2.311385743091448,
+  "max_eVA": 8.351009825626658,
+  "median_eVA": 1.5547785876029891,
+  "dmin_A": 1.264342489834142,
+  "dmin_pair": "B-O",
+  "pbc": [
+   true,
+   true,
+   true
+  ],
+  "cell_lengths": [
+   11.7,
+   11.7,
+   24.2541
+  ]
+ }
+}

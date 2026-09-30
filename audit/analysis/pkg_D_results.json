@@ -1,0 +1,70 @@
+{
+ "cace_baseline": {
+  "OOD_SR": {
+   "n_atoms": 368,
+   "F_rmse_meV_A": 116.26,
+   "F_maxerr_meV_A": 668.7
+  },
+  "OOD_LR": {
+   "n_atoms": 368,
+   "F_rmse_meV_A": 40.46,
+   "F_maxerr_meV_A": 186.69
+  }
+ },
+ "models": {
+  "resA_ep375": {
+   "model": "/work/home/USER/LiCl-GaF3/remove-errstructure/results/LiCl-GaF3_stagetwo.model",
+   "indist": {
+    "n_frames": 10,
+    "E_rmse_meV_atom": 5.589,
+    "F_rmse_meV_A": 1358.88
+   },
+   "OOD_SR": {
+    "F_rmse_meV_A": 74.88,
+    "F_maxerr_meV_A": 336.58,
+    "E_pred_eV": -290881.617195
+   },
+   "OOD_LR": {
+    "F_rmse_meV_A": 74.88,
+    "F_maxerr_meV_A": 336.58,
+    "E_pred_eV": -290881.617195
+   }
+  },
+  "resB_ep1500": {
+   "model": "/work/home/USER/LiCl-GaF3/remove-errstructure/results1/LiCl-GaF3_stagetwo.model",
+   "indist": {
+    "n_frames": 10,
+    "E_rmse_meV_atom": 2.955,
+    "F_rmse_meV_A": 900.66
+   },
+   "OOD_SR": {
+    "F_rmse_meV_A": 72.52,
+    "F_maxerr_meV_A": 329.82,
+    "E_pred_eV": -290882.193719
+   },
+   "OOD_LR": {
+    "F_rmse_meV_A": 72.52,
+    "F_maxerr_meV_A": 329.82,
+    "E_pred_eV": -290882.193719
+   }
+  },
+  "resC_ep375": {
+   "model": "/work/home/USER/LiCl-GaF3/remove-errstructure/results2/LiCl-GaF3_stagetwo.model",
+   "indist": {
+    "n_frames": 10,
+    "E_rmse_meV_atom": 6.887,
+    "F_rmse_meV_A": 1290.13
+   },
+   "OOD_SR": {
+    "F_rmse_meV_A": 77.74,
+    "F_maxerr_meV_A": 358.68,
+    "E_pred_eV": -290885.018411
+   },
+   "OOD_LR": {
+    "F_rmse_meV_A": 77.74,
+    "F_maxerr_meV_A": 358.68,
+    "E_pred_eV": -290885.018411
+   }
+  }
+ }
+}

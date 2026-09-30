@@ -1,0 +1,27 @@
+{
+ "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/v21-SR-20260806/results/Na-NSS-v21-SR_stagetwo.model",
+ "natoms": 2712,
+ "stages": {
+  "min": {
+   "dE_eV": -138.96746704538054,
+   "fmax": 0.8628711230160124,
+   "dmin": 2.096837582328536,
+   "converged": false
+  },
+  "warm100K": {
+   "T_mean": 106.03898866522854,
+   "T_std": 6.80707401929511
+  },
+  "warm300K": {
+   "T_mean": 270.82566178400685,
+   "T_std": 75.03156674410471
+  }
+ },
+ "pair_dmin_min": {},
+ "verdict": {
+  "pass": false,
+  "stage": "nvt300K",
+  "T": 473383833.3553573,
+  "dmin": 0.30672384660124624
+ }
+}

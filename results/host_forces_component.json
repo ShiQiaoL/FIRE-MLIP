@@ -1,0 +1,56 @@
+{
+ "NaNSS": {
+  "n_atoms": 128,
+  "n_frames_file": 100,
+  "rms_component_eVA": 0.4009405289260782,
+  "max_component_eVA": 1.29179195,
+  "max_norm_eVA": 1.7938803455275147,
+  "file_rms_component_eVA": 0.42519124135722125,
+  "file_max_component_eVA": 3.19287279
+ },
+ "LPSCl": {
+  "n_atoms": 185,
+  "n_frames_file": 200,
+  "rms_component_eVA": 0.5735180178522414,
+  "max_component_eVA": 2.567619,
+  "max_norm_eVA": 2.847506962627133,
+  "file_rms_component_eVA": 0.44663150583525624,
+  "file_max_component_eVA": 7.276357
+ },
+ "LLZO": {
+  "n_atoms": 184,
+  "n_frames_file": 200,
+  "rms_component_eVA": 0.9690235168361677,
+  "max_component_eVA": 4.8091321,
+  "max_norm_eVA": 4.988781806023149,
+  "file_rms_component_eVA": 0.928503665095623,
+  "file_max_component_eVA": 10.391582
+ },
+ "LiClGaF3": {
+  "n_atoms": 368,
+  "n_frames_file": 10,
+  "rms_component_eVA": 19.87333091472414,
+  "max_component_eVA": 199.67975872,
+  "max_norm_eVA": 273.0944682546333,
+  "file_rms_component_eVA": 38.656601669162356,
+  "file_max_component_eVA": 1471.31746846
+ },
+ "Li2CO3LiF": {
+  "n_atoms": 120,
+  "n_frames_file": 200,
+  "rms_component_eVA": 0.8662173554028383,
+  "max_component_eVA": 3.26925302,
+  "max_norm_eVA": 3.510104566449884,
+  "file_rms_component_eVA": 0.9244751206157652,
+  "file_max_component_eVA": 10.92167187
+ },
+ "LPSLBO": {
+  "n_atoms": 224,
+  "n_frames_file": 200,
+  "rms_component_eVA": 1.3344791809749108,
+  "max_component_eVA": 7.041679,
+  "max_norm_eVA": 8.351009825626658,
+  "file_rms_component_eVA": 1.2711763535423086,
+  "file_max_component_eVA": 11.548625
+ }
+}

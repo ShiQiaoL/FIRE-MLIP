@@ -1,0 +1,1674 @@
+{
+ "NaNSS": {
+  "train_file": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/2000-fra-2-stress-add-T-NSS/soap_train_1800.xyz",
+  "n_train_frames_scanned": 300,
+  "d_data": {
+   "Na-S": {
+    "dmin": 2.253,
+    "d_eq": 2.769
+   },
+   "Na-Sb": {
+    "dmin": 2.656,
+    "d_eq": 3.468
+   },
+   "Na-Na": {
+    "dmin": 2.471,
+    "d_eq": 3.326
+   },
+   "S-Sb": {
+    "dmin": 2.164,
+    "d_eq": 2.322
+   },
+   "S-S": {
+    "dmin": 1.889,
+    "d_eq": 3.584
+   },
+   "Sb-Sb": {
+    "dmin": 3.562,
+    "d_eq": 3.587
+   }
+  },
+  "dmin_floor": 1.589,
+  "models": {
+   "v21": {
+    "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/v21-SR-20260806/results/Na-NSS-v21-SR_stagetwo.model",
+    "scans": {
+     "Na-Na": {
+      "d_min_data": 2.471,
+      "d_eq_p10": 3.326,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 9.61122971924334,
+      "wall_min_eV": 3.0,
+      "pass": true
+     },
+     "Na-S": {
+      "d_min_data": 2.253,
+      "d_eq_p10": 2.769,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 26.229762697943443,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Na-Sb": {
+      "d_min_data": 2.656,
+      "d_eq_p10": 3.468,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 31.007530374461624,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "S-S": {
+      "d_min_data": 1.889,
+      "d_eq_p10": 3.584,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 33.12632016068574,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "S-Sb": {
+      "d_min_data": 2.164,
+      "d_eq_p10": 2.322,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 71.85326825793726,
+      "wall_min_eV": 8.0,
+      "pass": true
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 0,
+     "worst_dmin_A": 2.319,
+     "pass": true
+    },
+    "summary": {
+     "scans_pass": "5/5",
+     "hole_hunt_pass": true
+    }
+   },
+   "v1": {
+    "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/2000-fra-2-stress-add-T-NSS/results/Na-NSS-2000_stagetwo.model",
+    "scans": {
+     "Na-Na": {
+      "d_min_data": 2.471,
+      "d_eq_p10": 3.326,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 2.508188718539884,
+      "wall_min_eV": 3.0,
+      "pass": false
+     },
+     "Na-S": {
+      "d_min_data": 2.253,
+      "d_eq_p10": 2.769,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 7.644112122082333,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Na-Sb": {
+      "d_min_data": 2.656,
+      "d_eq_p10": 3.468,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 18.599857282433106,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "S-S": {
+      "d_min_data": 1.889,
+      "d_eq_p10": 3.584,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 12.302286894989095,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "S-Sb": {
+      "d_min_data": 2.164,
+      "d_eq_p10": 2.322,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 20.866965000681887,
+      "wall_min_eV": 8.0,
+      "pass": true
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 0,
+     "worst_dmin_A": 2.315,
+     "pass": true
+    },
+    "summary": {
+     "scans_pass": "4/5",
+     "hole_hunt_pass": true
+    }
+   },
+   "mpa0": {
+    "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/2000-fra-2-stress-add-T-NSS/mace-mpa-0-medium.model",
+    "scans": {
+     "Na-Na": {
+      "d_min_data": 2.471,
+      "d_eq_p10": 3.326,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 11.56387869586814,
+      "wall_min_eV": 3.0,
+      "pass": true
+     },
+     "Na-S": {
+      "d_min_data": 2.253,
+      "d_eq_p10": 2.769,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 25.11877564128747,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Na-Sb": {
+      "d_min_data": 2.656,
+      "d_eq_p10": 3.468,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 39.64934689573397,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "S-S": {
+      "d_min_data": 1.889,
+      "d_eq_p10": 3.584,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 32.49501292984888,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "S-Sb": {
+      "d_min_data": 2.164,
+      "d_eq_p10": 2.322,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 63.07278035380733,
+      "wall_min_eV": 8.0,
+      "pass": true
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 0,
+     "worst_dmin_A": 2.316,
+     "pass": true
+    },
+    "summary": {
+     "scans_pass": "5/5",
+     "hole_hunt_pass": true
+    }
+   }
+  }
+ },
+ "LPSCl": {
+  "train_file": "/work/home/USER/Li-LPSCl/train-numpt-15000/soap_selected_1800_train.xyz",
+  "n_train_frames_scanned": 300,
+  "d_data": {
+   "Li-Li": {
+    "dmin": 1.637,
+    "d_eq": 2.711
+   },
+   "Li-S": {
+    "dmin": 1.881,
+    "d_eq": 2.27
+   },
+   "Li-P": {
+    "dmin": 1.887,
+    "d_eq": 2.443
+   },
+   "Cl-Li": {
+    "dmin": 1.89,
+    "d_eq": 2.301
+   },
+   "P-S": {
+    "dmin": 1.797,
+    "d_eq": 2.025
+   },
+   "P-P": {
+    "dmin": 1.944,
+    "d_eq": 2.211
+   },
+   "Cl-P": {
+    "dmin": 2.491,
+    "d_eq": 3.363
+   },
+   "S-S": {
+    "dmin": 2.062,
+    "d_eq": 3.302
+   },
+   "Cl-S": {
+    "dmin": 2.59,
+    "d_eq": 3.416
+   },
+   "Cl-Cl": {
+    "dmin": 2.831,
+    "d_eq": 3.016
+   }
+  },
+  "dmin_floor": 1.337,
+  "models": {
+   "ft": {
+    "model": "/work/home/USER/Li-LPSCl/train-numpt-15000/results/Li-LPSCl_stagetwo.model",
+    "scans": {
+     "Cl-Cl": {
+      "d_min_data": 2.831,
+      "d_eq_p10": 3.016,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 9.95357842505075,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-Li": {
+      "d_min_data": 1.89,
+      "d_eq_p10": 2.301,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 5.794710692801914,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Cl-P": {
+      "d_min_data": 2.491,
+      "d_eq_p10": 3.363,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 15.577269780180472,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-S": {
+      "d_min_data": 2.59,
+      "d_eq_p10": 3.416,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 10.458860506001201,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Li-Li": {
+      "d_min_data": 1.637,
+      "d_eq_p10": 2.711,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.0,
+       2.05,
+       2.1,
+       2.15,
+       2.2,
+       2.25,
+       2.3
+      ],
+      "wall_height_eV": 1.273304613632149,
+      "wall_min_eV": 3.0,
+      "pass": false
+     },
+     "Li-P": {
+      "d_min_data": 1.887,
+      "d_eq_p10": 2.443,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 10.22589963977316,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Li-S": {
+      "d_min_data": 1.881,
+      "d_eq_p10": 2.27,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 7.997000951456812,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "P-P": {
+      "d_min_data": 1.944,
+      "d_eq_p10": 2.211,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 14.871644147280222,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "P-S": {
+      "d_min_data": 1.797,
+      "d_eq_p10": 2.025,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 9.314999980646917,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "S-S": {
+      "d_min_data": 2.062,
+      "d_eq_p10": 3.302,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.75,
+       2.8
+      ],
+      "wall_height_eV": 7.289626925596281,
+      "wall_min_eV": 8.0,
+      "pass": false
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 0,
+     "worst_dmin_A": 1.851,
+     "pass": true
+    },
+    "summary": {
+     "scans_pass": "8/10",
+     "hole_hunt_pass": true
+    }
+   },
+   "mpa0": {
+    "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/2000-fra-2-stress-add-T-NSS/mace-mpa-0-medium.model",
+    "scans": {
+     "Cl-Cl": {
+      "d_min_data": 2.831,
+      "d_eq_p10": 3.016,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 32.6257623999428,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-Li": {
+      "d_min_data": 1.89,
+      "d_eq_p10": 2.301,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 12.39630293351479,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Cl-P": {
+      "d_min_data": 2.491,
+      "d_eq_p10": 3.363,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 35.191462938911855,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-S": {
+      "d_min_data": 2.59,
+      "d_eq_p10": 3.416,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 32.446750130919895,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Li-Li": {
+      "d_min_data": 1.637,
+      "d_eq_p10": 2.711,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.0,
+       2.05,
+       2.1,
+       2.15,
+       2.2,
+       2.25,
+       2.3
+      ],
+      "wall_height_eV": 2.2938780011046447,
+      "wall_min_eV": 3.0,
+      "pass": false
+     },
+     "Li-P": {
+      "d_min_data": 1.887,
+      "d_eq_p10": 2.443,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 11.938880635392366,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Li-S": {
+      "d_min_data": 1.881,
+      "d_eq_p10": 2.27,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 12.711409203694302,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "P-P": {
+      "d_min_data": 1.944,
+      "d_eq_p10": 2.211,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 31.422725156687306,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "P-S": {
+      "d_min_data": 1.797,
+      "d_eq_p10": 2.025,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 32.16350650041397,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "S-S": {
+      "d_min_data": 2.062,
+      "d_eq_p10": 3.302,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.8
+      ],
+      "wall_height_eV": 30.06222026056821,
+      "wall_min_eV": 8.0,
+      "pass": false
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 0,
+     "worst_dmin_A": 1.865,
+     "pass": true
+    },
+    "summary": {
+     "scans_pass": "8/10",
+     "hole_hunt_pass": true
+    }
+   }
+  }
+ },
+ "LLZO": {
+  "train_file": "/work/home/USER/LLZO-SUN/multi-head-train/2000-fra/soap_train_1800.xyz",
+  "n_train_frames_scanned": 300,
+  "d_data": {
+   "Li-Li": {
+    "dmin": 1.722,
+    "d_eq": 2.369
+   },
+   "La-Li": {
+    "dmin": 2.37,
+    "d_eq": 2.967
+   },
+   "Li-O": {
+    "dmin": 1.375,
+    "d_eq": 1.9
+   },
+   "Li-Zr": {
+    "dmin": 2.302,
+    "d_eq": 2.845
+   },
+   "Li-Ta": {
+    "dmin": 2.372,
+    "d_eq": 2.854
+   },
+   "La-O": {
+    "dmin": 1.911,
+    "d_eq": 2.355
+   },
+   "La-Ta": {
+    "dmin": 3.169,
+    "d_eq": 3.439
+   },
+   "La-La": {
+    "dmin": 3.369,
+    "d_eq": 3.725
+   },
+   "La-Zr": {
+    "dmin": 3.013,
+    "d_eq": 3.453
+   },
+   "O-Zr": {
+    "dmin": 1.586,
+    "d_eq": 2.023
+   },
+   "O-O": {
+    "dmin": 2.3,
+    "d_eq": 2.794
+   },
+   "O-Ta": {
+    "dmin": 1.751,
+    "d_eq": 1.927
+   },
+   "Li-Nb": {
+    "dmin": 2.398,
+    "d_eq": 2.857
+   },
+   "La-Nb": {
+    "dmin": 3.128,
+    "d_eq": 3.432
+   },
+   "Nb-O": {
+    "dmin": 1.762,
+    "d_eq": 1.936
+   }
+  },
+  "dmin_floor": 1.075,
+  "models": {
+   "ft": {
+    "model": "/work/home/USER/LLZO-SUN/multi-head-train/2000-fra/results/LLZO-SUN_stagetwo.model",
+    "scans": {
+     "La-La": {
+      "d_min_data": 3.369,
+      "d_eq_p10": 3.725,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 25.24719948396796,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "La-Li": {
+      "d_min_data": 2.37,
+      "d_eq_p10": 2.967,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 9.35059993108598,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "La-O": {
+      "d_min_data": 1.911,
+      "d_eq_p10": 2.355,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 16.140222503229097,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "La-Ta": {
+      "d_min_data": 3.169,
+      "d_eq_p10": 3.439,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 43.32241684331393,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "La-Zr": {
+      "d_min_data": 3.013,
+      "d_eq_p10": 3.453,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 38.258473121574525,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Li-Li": {
+      "d_min_data": 1.722,
+      "d_eq_p10": 2.369,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 3.6094963078246565,
+      "wall_min_eV": 3.0,
+      "pass": true
+     },
+     "Li-O": {
+      "d_min_data": 1.375,
+      "d_eq_p10": 1.9,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.311858795756734,
+      "wall_min_eV": 5.0,
+      "pass": false
+     },
+     "Li-Ta": {
+      "d_min_data": 2.372,
+      "d_eq_p10": 2.854,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 17.723402735057334,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Li-Zr": {
+      "d_min_data": 2.302,
+      "d_eq_p10": 2.845,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 17.500561553973057,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "O-O": {
+      "d_min_data": 2.3,
+      "d_eq_p10": 2.794,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 10.095186320246967,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "O-Ta": {
+      "d_min_data": 1.751,
+      "d_eq_p10": 1.927,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 20.170561824319066,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "O-Zr": {
+      "d_min_data": 1.586,
+      "d_eq_p10": 2.023,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 19.341385142001855,
+      "wall_min_eV": 8.0,
+      "pass": true
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 0,
+     "worst_dmin_A": 1.653,
+     "pass": true
+    },
+    "summary": {
+     "scans_pass": "11/12",
+     "hole_hunt_pass": true
+    }
+   },
+   "mpa0": {
+    "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/2000-fra-2-stress-add-T-NSS/mace-mpa-0-medium.model",
+    "scans": {
+     "La-La": {
+      "d_min_data": 3.369,
+      "d_eq_p10": 3.725,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 64.46891889107883,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "La-Li": {
+      "d_min_data": 2.37,
+      "d_eq_p10": 2.967,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 23.818016253567066,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "La-O": {
+      "d_min_data": 1.911,
+      "d_eq_p10": 2.355,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 33.2525053644365,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "La-Ta": {
+      "d_min_data": 3.169,
+      "d_eq_p10": 3.439,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 79.62185881009009,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "La-Zr": {
+      "d_min_data": 3.013,
+      "d_eq_p10": 3.453,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 82.31511136057543,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Li-Li": {
+      "d_min_data": 1.722,
+      "d_eq_p10": 2.369,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.797409484498303,
+      "wall_min_eV": 3.0,
+      "pass": true
+     },
+     "Li-O": {
+      "d_min_data": 1.375,
+      "d_eq_p10": 1.9,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.35280589844524,
+      "wall_min_eV": 5.0,
+      "pass": false
+     },
+     "Li-Ta": {
+      "d_min_data": 2.372,
+      "d_eq_p10": 2.854,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 26.586358564228703,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Li-Zr": {
+      "d_min_data": 2.302,
+      "d_eq_p10": 2.845,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 29.72925970238248,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "O-O": {
+      "d_min_data": 2.3,
+      "d_eq_p10": 2.794,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 15.656167066146736,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "O-Ta": {
+      "d_min_data": 1.751,
+      "d_eq_p10": 1.927,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 28.896882550618784,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "O-Zr": {
+      "d_min_data": 1.586,
+      "d_eq_p10": 2.023,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 31.399924457255565,
+      "wall_min_eV": 8.0,
+      "pass": true
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 0,
+     "worst_dmin_A": 1.657,
+     "pass": true
+    },
+    "summary": {
+     "scans_pass": "11/12",
+     "hole_hunt_pass": true
+    }
+   }
+  }
+ },
+ "LiClGaF3": {
+  "train_file": "/work/home/USER/LiCl-GaF3/remove-errstructure/train2.xyz",
+  "n_train_frames_scanned": 82,
+  "d_data": {
+   "Cl-F": {
+    "dmin": 1.636,
+    "d_eq": 2.749
+   },
+   "Cl-Li": {
+    "dmin": 1.077,
+    "d_eq": 2.121
+   },
+   "Cl-Cl": {
+    "dmin": 1.965,
+    "d_eq": 3.114
+   },
+   "Cl-Ga": {
+    "dmin": 1.055,
+    "d_eq": 1.975
+   },
+   "F-Ga": {
+    "dmin": 0.572,
+    "d_eq": 1.745
+   },
+   "F-F": {
+    "dmin": 1.054,
+    "d_eq": 2.377
+   },
+   "F-Li": {
+    "dmin": 0.58,
+    "d_eq": 1.826
+   },
+   "Ga-Li": {
+    "dmin": 1.668,
+    "d_eq": 2.831
+   },
+   "Ga-Ga": {
+    "dmin": 2.027,
+    "d_eq": 3.068
+   },
+   "Li-Li": {
+    "dmin": 1.589,
+    "d_eq": 2.904
+   }
+  },
+  "dmin_floor": 0.272,
+  "models": {
+   "ft": {
+    "model": "/work/home/USER/LiCl-GaF3/remove-errstructure/results1/LiCl-GaF3_stagetwo.model",
+    "scans": {
+     "Cl-Cl": {
+      "d_min_data": 1.965,
+      "d_eq_p10": 3.114,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 27.175507882609963,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-F": {
+      "d_min_data": 1.636,
+      "d_eq_p10": 2.749,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 12.927461331535596,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-Ga": {
+      "d_min_data": 1.055,
+      "d_eq_p10": 1.975,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 37.578938788792584,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-Li": {
+      "d_min_data": 1.077,
+      "d_eq_p10": 2.121,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 11.52006120205624,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "F-F": {
+      "d_min_data": 1.054,
+      "d_eq_p10": 2.377,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 5.661846952571068,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "F-Ga": {
+      "d_min_data": 0.572,
+      "d_eq_p10": 1.745,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 13.155394265893847,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "F-Li": {
+      "d_min_data": 0.58,
+      "d_eq_p10": 1.826,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 2.588830816792324,
+      "wall_min_eV": 5.0,
+      "pass": false
+     },
+     "Ga-Ga": {
+      "d_min_data": 2.027,
+      "d_eq_p10": 3.068,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.1,
+       2.15,
+       2.2,
+       2.25,
+       2.3,
+       2.35,
+       2.4,
+       2.45,
+       2.5,
+       2.55,
+       2.6
+      ],
+      "wall_height_eV": 39.36226312373765,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "Ga-Li": {
+      "d_min_data": 1.668,
+      "d_eq_p10": 2.831,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 21.14854409225518,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Li-Li": {
+      "d_min_data": 1.589,
+      "d_eq_p10": 2.904,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.45
+      ],
+      "wall_height_eV": 4.406505910679698,
+      "wall_min_eV": 3.0,
+      "pass": false
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 20,
+     "worst_dmin_A": 1.689,
+     "pass": false
+    },
+    "summary": {
+     "scans_pass": "6/10",
+     "hole_hunt_pass": false
+    }
+   },
+   "mpa0": {
+    "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/2000-fra-2-stress-add-T-NSS/mace-mpa-0-medium.model",
+    "scans": {
+     "Cl-Cl": {
+      "d_min_data": 1.965,
+      "d_eq_p10": 3.114,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 29.81518880476733,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-F": {
+      "d_min_data": 1.636,
+      "d_eq_p10": 2.749,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 12.65241998446777,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-Ga": {
+      "d_min_data": 1.055,
+      "d_eq_p10": 1.975,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 36.381638696496566,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Cl-Li": {
+      "d_min_data": 1.077,
+      "d_eq_p10": 2.121,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 11.701394878572728,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "F-F": {
+      "d_min_data": 1.054,
+      "d_eq_p10": 2.377,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 5.621204444847763,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "F-Ga": {
+      "d_min_data": 0.572,
+      "d_eq_p10": 1.745,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 10.710301333260759,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "F-Li": {
+      "d_min_data": 0.58,
+      "d_eq_p10": 1.826,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 2.891052805020763,
+      "wall_min_eV": 5.0,
+      "pass": false
+     },
+     "Ga-Ga": {
+      "d_min_data": 2.027,
+      "d_eq_p10": 3.068,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.15,
+       2.2,
+       2.25,
+       2.3,
+       2.35,
+       2.4,
+       2.45,
+       2.5,
+       2.55,
+       2.6
+      ],
+      "wall_height_eV": 44.74251204701204,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "Ga-Li": {
+      "d_min_data": 1.668,
+      "d_eq_p10": 2.831,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 19.888613576374382,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Li-Li": {
+      "d_min_data": 1.589,
+      "d_eq_p10": 2.904,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.45
+      ],
+      "wall_height_eV": 4.94542018412767,
+      "wall_min_eV": 3.0,
+      "pass": false
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 20,
+     "worst_dmin_A": 1.703,
+     "pass": false
+    },
+    "summary": {
+     "scans_pass": "6/10",
+     "hole_hunt_pass": false
+    }
+   }
+  }
+ },
+ "Li2CO3LiF": {
+  "train_file": "/work/home/USER/Li2CO3-LiF/mace_train.xyz",
+  "n_train_frames_scanned": 300,
+  "d_data": {
+   "Li-Li": {
+    "dmin": 1.811,
+    "d_eq": 2.682
+   },
+   "F-Li": {
+    "dmin": 1.445,
+    "d_eq": 1.835
+   },
+   "F-F": {
+    "dmin": 2.192,
+    "d_eq": 2.753
+   },
+   "Li-O": {
+    "dmin": 1.461,
+    "d_eq": 1.953
+   },
+   "C-Li": {
+    "dmin": 1.886,
+    "d_eq": 2.462
+   },
+   "C-O": {
+    "dmin": 1.125,
+    "d_eq": 1.287
+   },
+   "C-C": {
+    "dmin": 2.762,
+    "d_eq": 3.317
+   },
+   "O-O": {
+    "dmin": 2.02,
+    "d_eq": 2.254
+   },
+   "F-O": {
+    "dmin": 2.122,
+    "d_eq": 2.851
+   },
+   "C-F": {
+    "dmin": 2.393,
+    "d_eq": 3.15
+   }
+  },
+  "dmin_floor": 0.825,
+  "models": {
+   "ft": {
+    "model": "/work/home/USER/Li2CO3-LiF/results1/Li2CO3-LiF_stagetwo.model",
+    "scans": {
+     "C-C": {
+      "d_min_data": 2.762,
+      "d_eq_p10": 3.317,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 17.92592846775642,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "C-Li": {
+      "d_min_data": 1.886,
+      "d_eq_p10": 2.462,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 8.385057028630058,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "C-O": {
+      "d_min_data": 1.125,
+      "d_eq_p10": 1.287,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 0.27593139418468127,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "Li-Li": {
+      "d_min_data": 1.811,
+      "d_eq_p10": 2.682,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 3.4318759193440656,
+      "wall_min_eV": 3.0,
+      "pass": true
+     },
+     "Li-O": {
+      "d_min_data": 1.461,
+      "d_eq_p10": 1.953,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 3.9254391592107822,
+      "wall_min_eV": 5.0,
+      "pass": false
+     },
+     "O-O": {
+      "d_min_data": 2.02,
+      "d_eq_p10": 2.254,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 16.72893043361705,
+      "wall_min_eV": 8.0,
+      "pass": true
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 4,
+     "worst_dmin_A": 1.23,
+     "pass": false
+    },
+    "summary": {
+     "scans_pass": "4/6",
+     "hole_hunt_pass": false
+    }
+   },
+   "mpa0": {
+    "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/2000-fra-2-stress-add-T-NSS/mace-mpa-0-medium.model",
+    "scans": {
+     "C-C": {
+      "d_min_data": 2.762,
+      "d_eq_p10": 3.317,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 15.554380604786274,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "C-Li": {
+      "d_min_data": 1.886,
+      "d_eq_p10": 2.462,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 8.77017163046753,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "C-O": {
+      "d_min_data": 1.125,
+      "d_eq_p10": 1.287,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 0.26212226700386054,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "Li-Li": {
+      "d_min_data": 1.811,
+      "d_eq_p10": 2.682,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.507569331222612,
+      "wall_min_eV": 3.0,
+      "pass": true
+     },
+     "Li-O": {
+      "d_min_data": 1.461,
+      "d_eq_p10": 1.953,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.556085341647076,
+      "wall_min_eV": 5.0,
+      "pass": false
+     },
+     "O-O": {
+      "d_min_data": 2.02,
+      "d_eq_p10": 2.254,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 23.004228457194586,
+      "wall_min_eV": 8.0,
+      "pass": true
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 11,
+     "worst_dmin_A": 1.233,
+     "pass": false
+    },
+    "summary": {
+     "scans_pass": "4/6",
+     "hole_hunt_pass": false
+    }
+   }
+  }
+ },
+ "LPSLBO": {
+  "train_file": "/work/home/USER/LPS-LBO/soap_train_1800.xyz",
+  "n_train_frames_scanned": 300,
+  "d_data": {
+   "Li-O": {
+    "dmin": 1.444,
+    "d_eq": 1.963
+   },
+   "B-Li": {
+    "dmin": 1.907,
+    "d_eq": 2.577
+   },
+   "Li-Li": {
+    "dmin": 1.753,
+    "d_eq": 2.827
+   },
+   "Li-S": {
+    "dmin": 1.82,
+    "d_eq": 2.349
+   },
+   "Li-P": {
+    "dmin": 2.034,
+    "d_eq": 2.894
+   },
+   "B-O": {
+    "dmin": 1.161,
+    "d_eq": 1.386
+   },
+   "B-B": {
+    "dmin": 1.475,
+    "d_eq": 2.422
+   },
+   "B-S": {
+    "dmin": 1.615,
+    "d_eq": 1.913
+   },
+   "B-P": {
+    "dmin": 2.068,
+    "d_eq": 2.904
+   },
+   "P-S": {
+    "dmin": 1.754,
+    "d_eq": 1.977
+   },
+   "O-P": {
+    "dmin": 1.403,
+    "d_eq": 1.819
+   },
+   "P-P": {
+    "dmin": 3.015,
+    "d_eq": 3.396
+   },
+   "O-S": {
+    "dmin": 2.176,
+    "d_eq": 2.89
+   },
+   "S-S": {
+    "dmin": 1.714,
+    "d_eq": 3.171
+   },
+   "O-O": {
+    "dmin": 1.989,
+    "d_eq": 2.342
+   }
+  },
+  "dmin_floor": 0.861,
+  "models": {
+   "ft": {
+    "model": "/work/home/USER/LPS-LBO/results1/Li2CO3-LiF_stagetwo.model",
+    "scans": {
+     "B-B": {
+      "d_min_data": 1.475,
+      "d_eq_p10": 2.422,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 17.853493738277393,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "B-Li": {
+      "d_min_data": 1.907,
+      "d_eq_p10": 2.577,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 8.997465476828438,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "B-O": {
+      "d_min_data": 1.161,
+      "d_eq_p10": 1.386,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 0.2235900458595097,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "B-P": {
+      "d_min_data": 2.068,
+      "d_eq_p10": 2.904,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 30.977275747380645,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "B-S": {
+      "d_min_data": 1.615,
+      "d_eq_p10": 1.913,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 8.691789139506,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Li-Li": {
+      "d_min_data": 1.753,
+      "d_eq_p10": 2.827,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 3.173591609932373,
+      "wall_min_eV": 3.0,
+      "pass": true
+     },
+     "Li-O": {
+      "d_min_data": 1.444,
+      "d_eq_p10": 1.963,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.280549177963849,
+      "wall_min_eV": 5.0,
+      "pass": false
+     },
+     "Li-P": {
+      "d_min_data": 2.034,
+      "d_eq_p10": 2.894,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 9.35578187910437,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Li-S": {
+      "d_min_data": 1.82,
+      "d_eq_p10": 2.349,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 7.879239812766173,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "O-O": {
+      "d_min_data": 1.989,
+      "d_eq_p10": 2.342,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 11.89243960880026,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "O-P": {
+      "d_min_data": 1.403,
+      "d_eq_p10": 1.819,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.612697256768797,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "O-S": {
+      "d_min_data": 2.176,
+      "d_eq_p10": 2.89,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 17.51413085832928,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "P-P": {
+      "d_min_data": 3.015,
+      "d_eq_p10": 3.396,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 56.52807834227724,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "P-S": {
+      "d_min_data": 1.754,
+      "d_eq_p10": 1.977,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 17.302323633009564,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "S-S": {
+      "d_min_data": 1.714,
+      "d_eq_p10": 3.171,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.55,
+       2.6,
+       2.65
+      ],
+      "wall_height_eV": 19.711433110952612,
+      "wall_min_eV": 8.0,
+      "pass": false
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 0,
+     "worst_dmin_A": 1.231,
+     "pass": true
+    },
+    "summary": {
+     "scans_pass": "11/15",
+     "hole_hunt_pass": true
+    }
+   },
+   "mpa0": {
+    "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/2000-fra-2-stress-add-T-NSS/mace-mpa-0-medium.model",
+    "scans": {
+     "B-B": {
+      "d_min_data": 1.475,
+      "d_eq_p10": 2.422,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 18.18242632763736,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "B-Li": {
+      "d_min_data": 1.907,
+      "d_eq_p10": 2.577,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 9.747119837803211,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "B-O": {
+      "d_min_data": 1.161,
+      "d_eq_p10": 1.386,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 0.31589407779074463,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "B-P": {
+      "d_min_data": 2.068,
+      "d_eq_p10": 2.904,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 59.42960282332638,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "B-S": {
+      "d_min_data": 1.615,
+      "d_eq_p10": 1.913,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 10.430451048436225,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "Li-Li": {
+      "d_min_data": 1.753,
+      "d_eq_p10": 2.827,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.301487722016873,
+      "wall_min_eV": 3.0,
+      "pass": true
+     },
+     "Li-O": {
+      "d_min_data": 1.444,
+      "d_eq_p10": 1.963,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.541982121508681,
+      "wall_min_eV": 5.0,
+      "pass": false
+     },
+     "Li-P": {
+      "d_min_data": 2.034,
+      "d_eq_p10": 2.894,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 13.769571192502099,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "Li-S": {
+      "d_min_data": 1.82,
+      "d_eq_p10": 2.349,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 12.125898167968444,
+      "wall_min_eV": 5.0,
+      "pass": true
+     },
+     "O-O": {
+      "d_min_data": 1.989,
+      "d_eq_p10": 2.342,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 15.653167883293236,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "O-P": {
+      "d_min_data": 1.403,
+      "d_eq_p10": 1.819,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 4.243271463279143,
+      "wall_min_eV": 8.0,
+      "pass": false
+     },
+     "O-S": {
+      "d_min_data": 2.176,
+      "d_eq_p10": 2.89,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 20.620628036144126,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "P-P": {
+      "d_min_data": 3.015,
+      "d_eq_p10": 3.396,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 102.62118280001027,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "P-S": {
+      "d_min_data": 1.754,
+      "d_eq_p10": 1.977,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [],
+      "wall_height_eV": 31.352924222828733,
+      "wall_min_eV": 8.0,
+      "pass": true
+     },
+     "S-S": {
+      "d_min_data": 1.714,
+      "d_eq_p10": 3.171,
+      "local_minima_below_data": [],
+      "attractive_points_compressed": [
+       2.5,
+       2.55,
+       2.6,
+       2.65
+      ],
+      "wall_height_eV": 37.8894212086102,
+      "wall_min_eV": 8.0,
+      "pass": false
+     }
+    },
+    "hole_hunt": {
+     "n": 20,
+     "collapsed_dmin": 0,
+     "big_fake_drops": 4,
+     "worst_dmin_A": 1.242,
+     "pass": false
+    },
+    "summary": {
+     "scans_pass": "11/15",
+     "hole_hunt_pass": false
+    }
+   }
+  }
+ }
+}

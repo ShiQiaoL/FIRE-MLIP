@@ -1,0 +1,19 @@
+{
+ "model": "/work/home/USER/Na-NSS-mace/new-mace-Na-NSS-20250605/multi-head-train/v22-SR-20260807/results/Na-NSS-v22-SR_stagetwo.model",
+ "natoms": 2712,
+ "stages": {
+  "min": {
+   "dE_eV": -135.88243918127773,
+   "fmax": 1.9733012781691082,
+   "dmin": 1.9633466576651901,
+   "converged": false
+  }
+ },
+ "pair_dmin_min": {},
+ "verdict": {
+  "pass": false,
+  "stage": "warm100K",
+  "T": 45383976.73447865,
+  "dmin": 0.19828157826261184
+ }
+}

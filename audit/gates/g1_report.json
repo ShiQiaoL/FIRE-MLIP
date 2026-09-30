@@ -1,0 +1,227 @@
+{
+ "v1:orig_valid:bulk_128": {
+  "n": 214,
+  "E_rmse": 0.176,
+  "F_rmse": 9.96
+ },
+ "v1:orig_valid:bulk_127": {
+  "n": 1,
+  "E_rmse": 6.132,
+  "F_rmse": 26.16
+ },
+ "v1:orig_valid:bulk_180": {
+  "n": 2,
+  "E_rmse": 0.959,
+  "F_rmse": 18.47
+ },
+ "v1:orig_valid:bulk_144": {
+  "n": 79,
+  "E_rmse": 0.489,
+  "F_rmse": 32.11
+ },
+ "v1:orig_valid:interface_272": {
+  "n": 4,
+  "E_rmse": 0.766,
+  "F_rmse": 22.43
+ },
+ "v1:repulsion21_valid:collapse_path": {
+  "n": 2,
+  "E_rmse": 20.787,
+  "F_rmse": 629.61
+ },
+ "v1:repulsion21_valid:compressed_bulk": {
+  "n": 2,
+  "E_rmse": 0.711,
+  "F_rmse": 8.96
+ },
+ "v1:repulsion21_valid:highT_NSS128_600K": {
+  "n": 2,
+  "E_rmse": 0.071,
+  "F_rmse": 7.53
+ },
+ "v1:repulsion21_valid:highT_NSS128_900K": {
+  "n": 2,
+  "E_rmse": 0.123,
+  "F_rmse": 16.33
+ },
+ "v1:repulsion21_valid:highT_Na128_600K": {
+  "n": 2,
+  "E_rmse": 0.432,
+  "F_rmse": 14.15
+ },
+ "v1:repulsion21_valid:multi_pair": {
+  "n": 1,
+  "E_rmse": 5.185,
+  "F_rmse": 300.13
+ },
+ "v1:repulsion21_valid:na2_dimer_train": {
+  "n": 1,
+  "E_rmse": 320.837,
+  "F_rmse": 1698.87
+ },
+ "v1:repulsion21_valid:sr_pair_NSS128": {
+  "n": 8,
+  "E_rmse": 333.486,
+  "F_rmse": 12133.05
+ },
+ "v1:repulsion21_valid:sr_pair_Na128": {
+  "n": 2,
+  "E_rmse": 20.594,
+  "F_rmse": 717.77
+ },
+ "v1:repulsion21_valid:sr_pair_iface": {
+  "n": 6,
+  "E_rmse": 7.217,
+  "F_rmse": 870.27
+ },
+ "v2:orig_valid:bulk_128": {
+  "n": 214,
+  "E_rmse": 0.337,
+  "F_rmse": 10.34
+ },
+ "v2:orig_valid:bulk_127": {
+  "n": 1,
+  "E_rmse": 7.157,
+  "F_rmse": 27.77
+ },
+ "v2:orig_valid:bulk_180": {
+  "n": 2,
+  "E_rmse": 3.238,
+  "F_rmse": 23.25
+ },
+ "v2:orig_valid:bulk_144": {
+  "n": 79,
+  "E_rmse": 0.636,
+  "F_rmse": 35.25
+ },
+ "v2:orig_valid:interface_272": {
+  "n": 4,
+  "E_rmse": 0.999,
+  "F_rmse": 23.97
+ },
+ "v2:repulsion21_valid:collapse_path": {
+  "n": 2,
+  "E_rmse": 0.443,
+  "F_rmse": 32.81
+ },
+ "v2:repulsion21_valid:compressed_bulk": {
+  "n": 2,
+  "E_rmse": 8.062,
+  "F_rmse": 8.1
+ },
+ "v2:repulsion21_valid:highT_NSS128_600K": {
+  "n": 2,
+  "E_rmse": 0.065,
+  "F_rmse": 7.08
+ },
+ "v2:repulsion21_valid:highT_NSS128_900K": {
+  "n": 2,
+  "E_rmse": 0.289,
+  "F_rmse": 12.94
+ },
+ "v2:repulsion21_valid:highT_Na128_600K": {
+  "n": 2,
+  "E_rmse": 16.372,
+  "F_rmse": 34.93
+ },
+ "v2:repulsion21_valid:multi_pair": {
+  "n": 1,
+  "E_rmse": 1.305,
+  "F_rmse": 24.84
+ },
+ "v2:repulsion21_valid:na2_dimer_train": {
+  "n": 1,
+  "E_rmse": 399.768,
+  "F_rmse": 3842.34
+ },
+ "v2:repulsion21_valid:sr_pair_NSS128": {
+  "n": 8,
+  "E_rmse": 8.025,
+  "F_rmse": 644.19
+ },
+ "v2:repulsion21_valid:sr_pair_Na128": {
+  "n": 2,
+  "E_rmse": 39.448,
+  "F_rmse": 27.01
+ },
+ "v2:repulsion21_valid:sr_pair_iface": {
+  "n": 6,
+  "E_rmse": 0.721,
+  "F_rmse": 16.67
+ },
+ "v21:orig_valid:bulk_128": {
+  "n": 214,
+  "E_rmse": 0.176,
+  "F_rmse": 10.0
+ },
+ "v21:orig_valid:bulk_127": {
+  "n": 1,
+  "E_rmse": 6.72,
+  "F_rmse": 26.82
+ },
+ "v21:orig_valid:bulk_180": {
+  "n": 2,
+  "E_rmse": 1.626,
+  "F_rmse": 20.7
+ },
+ "v21:orig_valid:bulk_144": {
+  "n": 79,
+  "E_rmse": 0.589,
+  "F_rmse": 34.84
+ },
+ "v21:orig_valid:interface_272": {
+  "n": 4,
+  "E_rmse": 1.271,
+  "F_rmse": 22.89
+ },
+ "v21:repulsion21_valid:collapse_path": {
+  "n": 2,
+  "E_rmse": 1.492,
+  "F_rmse": 66.92
+ },
+ "v21:repulsion21_valid:compressed_bulk": {
+  "n": 2,
+  "E_rmse": 0.749,
+  "F_rmse": 6.06
+ },
+ "v21:repulsion21_valid:highT_NSS128_600K": {
+  "n": 2,
+  "E_rmse": 0.08,
+  "F_rmse": 7.33
+ },
+ "v21:repulsion21_valid:highT_NSS128_900K": {
+  "n": 2,
+  "E_rmse": 0.155,
+  "F_rmse": 13.68
+ },
+ "v21:repulsion21_valid:highT_Na128_600K": {
+  "n": 2,
+  "E_rmse": 0.51,
+  "F_rmse": 13.83
+ },
+ "v21:repulsion21_valid:multi_pair": {
+  "n": 1,
+  "E_rmse": 0.567,
+  "F_rmse": 14.38
+ },
+ "v21:repulsion21_valid:na2_dimer_train": {
+  "n": 1,
+  "E_rmse": 8.178,
+  "F_rmse": 37.36
+ },
+ "v21:repulsion21_valid:sr_pair_NSS128": {
+  "n": 8,
+  "E_rmse": 7.307,
+  "F_rmse": 905.38
+ },
+ "v21:repulsion21_valid:sr_pair_Na128": {
+  "n": 2,
+  "E_rmse": 1.033,
+  "F_rmse": 62.95
+ },
+ "v21:repulsion21_valid:sr_pair_iface": {
+  "n": 6,
+  "E_rmse": 0.324,
+  "F_rmse": 12.81
+ }
+}
